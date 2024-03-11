@@ -14,7 +14,7 @@
       {
         "label": "Unicornio Dev Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Unicornio Dev Dark-color-theme.json"
+        "path": "./themes/unicornio-dev-dark-color-theme.json"
       }
     ]
   }
