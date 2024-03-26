@@ -1,7 +1,7 @@
 {
-  "name": "unicornio-dev-dark",
-  "displayName": "unicornio-dev-dark",
-  "description": "Unicornio Dev VSCode theme",
+  "name": "unicornio-dark",
+  "displayName": "unicornio-dark",
+  "description": "Unicornio Dark VSCode Theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.87.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Unicornio Dev Dark",
+        "label": "Unicornio Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/unicornio-dev-dark-color-theme.json"
+        "path": "./themes/unicornio-dark-color-theme.json"
       }
     ]
   }
