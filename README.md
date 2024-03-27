@@ -1,16 +1,28 @@
-# unicornio-dark-theme
+# 🦄 Unicornio Dark VSCode Theme
 
-## Working with Markdown
+Here's an image of Unicornio Dark Theme in action:
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![unicorniodarktheme](unicornio-dark-frame-v1.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## 🤩 Instalation
 
-## For more information
+1. Open the extensions sidebar in VS Code.
+2. Search for Unicornio Dark Theme.
+3. Click install.
+4. Open the Command Palette with Ctrl+Shift+P or ⇧⌘P .
+5. Select Preferences: Color Theme and choose Unicornio Dark Theme.
+6. **Enjoy!**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## 🐛 Bugs, suggestions and other issues
 
-**Enjoy!**
+If you find a bug or have suggestions about how to make this theme better, please leave me an `Issue` in this repo 💜
+
+## License
+
+MIT License (For more information, check the `LICENSE` file found in the source code).
+
+## Credits
+
+Made with 💛 and ☕ by [Flor Luz Duarte](https://github.com/florluzduarte).
+
+## Contributors

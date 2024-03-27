@@ -2,7 +2,22 @@
   "name": "unicornio-dark",
   "displayName": "unicornio-dark",
   "description": "Unicornio Dark VSCode Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "unicorniodev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unicorniodev/unicornio-dark-theme"
+  },
+  "keywords": [
+    "unicornio",
+    "unicornio dev",
+    "unicornio dark",
+    "unicornio dev dark",
+    "unicornio dark theme",
+    "unicornio dev dark theme",
+    "unicorniodev",
+    "unicorniodevdark"
+  ],
   "engines": {
     "vscode": "^1.87.0"
   },
