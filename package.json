@@ -1,13 +1,24 @@
 {
   "name": "unicornio-dark",
-  "displayName": "unicornio-dark",
+  "displayName": "Unicornio Dark",
   "description": "Unicornio Dark VSCode Theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "unicorniodev",
   "repository": {
     "type": "git",
     "url": "https://github.com/unicorniodev/unicornio-dark-theme"
   },
+  "icon": "images/unicornio-dev-icon.png",
+  "bugs": {
+    "url": "https://github.com/unicorniodev/unicornio-dark-theme/issues",
+    "email": "flor@unicornio.dev"
+  },
+  "author": {
+    "name": "Florencia Luz Duarte",
+    "email": "flor@unicornio.dev",
+    "url": "https://unicornio.dev"
+  },
+  "license": "MIT",
   "keywords": [
     "unicornio",
     "unicornio dev",

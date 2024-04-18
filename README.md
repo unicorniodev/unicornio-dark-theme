@@ -2,7 +2,7 @@
 
 Here's an image of Unicornio Dark Theme in action:
 
-![unicorniodarktheme](unicornio-dark-frame-v1.png)
+![unicorniodarktheme](images/unicornio-dark-frame-v1.png)
 
 ## 🤩 Instalation
 
